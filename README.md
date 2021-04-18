@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroF-Alm
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vanilla JS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate with some open source projects and improve my portifolio
 - 📫 You can find me on Linkedin. https://www.linkedin.com/in/pedro-fernandes-developer/
 
